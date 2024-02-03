@@ -1,0 +1,5 @@
+langchain
+yt_dlp
+tiktoken
+docarray
+openai
